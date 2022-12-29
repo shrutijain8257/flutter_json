@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Rahul",
+        "age":"20",
+        "gender": "Male",
+        "height": "175",
+        "hair_color": "black"
+
+    },
+    {
+        "name": "Rakhi",
+        "age":"27",
+        "gender": "Female",
+        "height": "155",
+        "hair_color": "red"
+    },
+    {
+        "name": "Aditya",
+        "age":"23",
+        "gender": "Male",
+        "height": "135",
+        "hair_color": "brown"
+    },
+    {
+        "name": "Aditi",
+        "age":"22",
+        "gender": "Female",
+        "height": "168",
+        "hair_color": "black"
+    }
+]
